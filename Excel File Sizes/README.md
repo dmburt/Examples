@@ -1,4 +1,4 @@
-![Shrinking Excel](./ExcelShrink.png)
+<img align="right" width="256" height="256" src="./ExcelShrink.png">
 # A few things about file size in Excel
 
 1. Formulas usually take up more space than the values you see on screen.  
