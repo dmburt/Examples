@@ -26,6 +26,6 @@ _Sample compression ratios_
 | 02b -   Smaller Excel - Version with Values| XLSB | 8,998,142| 7,483,636| 0.83|
 
 
-In this example, by saving values rather than formulas (note we kept the formulas at the top of the sheet in version "02") and saving the file in the XLSB format, we went from ~26MB to ~7MB.  
+In this example, by saving values rather than formulas (note we kept the formulas at the top of the sheet in version "02") and saving the file in the XLSB format, we went from ~26MB to ~7MB (after also zipping the binary down).  
 
 
