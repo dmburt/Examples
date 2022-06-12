@@ -17,8 +17,8 @@ In this folder,
 
 
 _Sample compression ratios_
-| File                                         | File Format | Uncompressed Size (bytes)| Compressed Size (bytes)| Compressed / Uncompressed Ratio|
-|----------------------------------------------| ------------- | ---------------------------| -------------------------| ---------------------------------|
+| File                                         | File Format | Uncompressed Size (bytes) | Compressed Size (bytes) | Compressed / Uncompressed Ratio |
+|----------------------------------------------|-------------|---------------------------|-------------------------|---------------------------------|
 | 01 -   Smaller Excel - Version with Formulas| XLSX | 26,561,753| 22,426,663| 0.84|
 | 02 -   Smaller Excel - Version with Values| XLSX | 18,825,619| 17,162,996| 0.91|
 | 02b -   Smaller Excel - Version with Values| XLSB | 8,998,142| 7,483,636| 0.83|
