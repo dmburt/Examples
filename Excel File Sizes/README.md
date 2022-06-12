@@ -1,3 +1,4 @@
+![Shrinking Excel](./ExcelShrink.png)
 # A few things about file size in Excel
 
 1. Formulas usually take up more space than the values you see on screen.  
