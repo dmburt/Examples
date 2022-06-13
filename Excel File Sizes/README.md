@@ -19,7 +19,7 @@ In this folder,
 
 
 _Sample compression ratios_
-| File                                         | File Format | Uncompressed Size (MB)| Compressed Size (MB)| Compressed / Uncompressed Ratio|
+| File                                         | File Format | Uncompressed\nSize (MB)| Compressed\nSize (MB)| Compressed /\nUncompressed Ratio|
 |----------------------------------------------|:-------------:|---------------------------:|-------------------------:|---------------------------------:|
 | 01 -   Smaller Excel - Version with __Formulas__ (Original)| XLSX | 26.6| 22.4| 0.84|
 | 02 -   Smaller Excel - Version with __Values__| XLSX | 18.8| 17.2| 0.91|
