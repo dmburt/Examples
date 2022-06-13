@@ -19,11 +19,11 @@ In this folder,
 
 
 _Sample compression ratios_
-| File                                         | File Format | Uncompressed Size (bytes)| Compressed Size (bytes)| Compressed / Uncompressed Ratio|
+| File                                         | File Format | Uncompressed Size (MB)| Compressed Size (MB)| Compressed / Uncompressed Ratio|
 |----------------------------------------------|:-------------:|---------------------------:|-------------------------:|---------------------------------:|
-| 01 -   Smaller Excel - Version with Formulas| XLSX | 26,561,753| 22,426,663| 0.84|
-| 02 -   Smaller Excel - Version with Values| XLSX | 18,825,619| 17,162,996| 0.91|
-| 02b -   Smaller Excel - Version with Values| XLSB | 8,998,142| 7,483,636| 0.83|
+| 01 -   Smaller Excel - Version with __Formulas__ (Original)| XLSX | 26.6| 22.4| 0.84|
+| 02 -   Smaller Excel - Version with __Values__| XLSX | 18.8| 17.2| 0.91|
+| 02b -   Smaller Excel - Version with Values| __XLSB__ | 9.0| 7.5| 0.83|
 
 
 In this example, by saving values rather than formulas (note we kept the formulas at the top of the sheet in version "02") and saving the file in the XLSB format, we went from ~26MB to ~7MB (after also zipping the binary down).  
