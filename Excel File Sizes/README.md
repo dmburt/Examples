@@ -11,7 +11,7 @@
 3. Excel actually has several file formats, and some of these have extended functionality:  
   a. XLSX is the default.  It's actually a ZIP file containing folders and XML files that have the data, functions, formatting, etc.  
   b. XLSM is like XLSX, but supports macros.  
-  c. XLSB is a "binary" format.  It's usually smaller than XLSX or XLSB.  
+  c. XLSB is a "binary" format.  It's usually smaller than XLSX or XLSM.  
 	i. There are benefits to using XLSX or XLSM over using XLSB.  
 	
 	
