@@ -15,13 +15,13 @@
 	i. There are benefits to using XLSX or XLSM over using XLSB.  
 	
 	
-In this folder,  
+In this folder, I have three versions of a file.  The original (01...xlsx) has a bunch of formulas.  In the second (02...xlsx), I replaced the formulas with the calculated values (copy, paste-special values), but kept a copy of the formulas at the top.  The third version (02...xls__b__) is the same as the second except I saved it in XLSB format.
 
 
 _Sample compression ratios_
-| File                                         | File Format | Uncompressed\nSize (MB)| Compressed\nSize (MB)| Compressed /\nUncompressed Ratio|
+| File                                         | File Format | Uncompressed Size (MB)| Compressed Size (MB)| Compressed / Uncompressed Ratio|
 |----------------------------------------------|:-------------:|---------------------------:|-------------------------:|---------------------------------:|
-| 01 -   Smaller Excel - Version with __Formulas__ (Original)| XLSX | 26.6| 22.4| 0.84|
+| 01 -   Smaller Excel - Version with __Formulas__| XLSX | 26.6| 22.4| 0.84|
 | 02 -   Smaller Excel - Version with __Values__| XLSX | 18.8| 17.2| 0.91|
 | 02b -   Smaller Excel - Version with Values| __XLSB__ | 9.0| 7.5| 0.83|
 
