@@ -15,7 +15,7 @@
 	i. There are benefits to using XLSX or XLSM over using XLSB.  
 	
 	
-In this folder, I have three versions of a file.  The original (01...xlsx) has a bunch of formulas.  In the second (02...xlsx), I replaced the formulas with the calculated values (copy, paste-special values), but kept a copy of the formulas at the top.  The third version (02...xls__b__) is the same as the second except I saved it in XLSB format.
+In this folder, I have three versions of a file.  The original (01...xlsx) has a bunch of formulas.  In the second (02...xlsx), I replaced the formulas with the calculated values (copy, paste-special values), but kept a copy of the formulas at the top.  The third version (02...xlsb) is the same as the second except I saved it in XLSB format.
 
 
 _Sample compression ratios_
